@@ -31,11 +31,10 @@ This iOS app fetches the latest news headlines using the [Hacker News Algolia AP
 
 ## Screenshots
 
-![List View Screenshot](https://github.com/user-attachments/assets/48e7d97f-f8ab-4ffd-9678-d8a5eb007852)
+<img src="https://github.com/user-attachments/assets/48e7d97f-f8ab-4ffd-9678-d8a5eb007852" alt="List View Screenshot" width="300"/>
 *List of news headlines.*
 
-
-![WebView Screenshot](https://github.com/user-attachments/assets/298cb8b2-84ab-424c-916b-fd9675edfe4f)
+<img src="https://github.com/user-attachments/assets/298cb8b2-84ab-424c-916b-fd9675edfe4f" alt="WebView Screenshot" width="300"/>
 *WebView displaying a full article.*
 
 ## License
